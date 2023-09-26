@@ -7,7 +7,7 @@ int main()
 {
 	std::cout << "\tTASK 30.2 CAPTURE WEB PAGE TITLE\n\n";
 
-	cpr::Response r = cpr::Get(cpr::Url{"http://httpbin.org/html"});
+	cpr::Response r = cpr::Get(cpr::Url{"http://httpbin.org/html"}, cpr::Header{{"Accept", "text/html"}});
 
 	if (r.status_code == 200)
 	{
