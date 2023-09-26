@@ -1,3 +1,0 @@
-C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/CMakeFiles/cpr-populate.dir
-C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/CMakeFiles/edit_cache.dir
-C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/CMakeFiles/rebuild_cache.dir
