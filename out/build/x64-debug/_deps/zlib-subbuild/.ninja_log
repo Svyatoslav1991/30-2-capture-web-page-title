@@ -1,0 +1,21 @@
+# ninja log v5
+3	102	7172763401832541	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	9674ab35df959949
+3	102	7172763401832541	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-mkdir	9674ab35df959949
+103	6821	7172763469062654	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	c96307d96074943d
+103	6821	7172763469062654	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-download	c96307d96074943d
+6841	7024	0	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	1f108a6da9ce2e1c
+6841	7024	0	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-update	1f108a6da9ce2e1c
+7025	7116	7172763471971994	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	70b0ae818e2ff99e
+7025	7116	7172763471971994	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-patch	70b0ae818e2ff99e
+7116	7205	7172763472864045	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	aae21acfdf8cb09f
+7116	7205	7172763472864045	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-configure	aae21acfdf8cb09f
+7205	7289	7172763473751676	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	b5700fe510ae1d68
+7205	7289	7172763473751676	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-build	b5700fe510ae1d68
+7290	7367	7172763474530233	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	c81e3e6e37db69a3
+7290	7367	7172763474530233	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-install	c81e3e6e37db69a3
+7367	7454	7172763475347610	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	c9ed80953dcaa6c0
+7367	7454	7172763475347610	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-test	c9ed80953dcaa6c0
+7454	7575	7172763476604248	CMakeFiles/zlib-populate-complete	6376e708cc19e9fd
+7454	7575	7172763476604248	zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	6376e708cc19e9fd
+7454	7575	7172763476604248	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/CMakeFiles/zlib-populate-complete	6376e708cc19e9fd
+7454	7575	7172763476604248	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/zlib-subbuild/zlib-populate-prefix/src/zlib-populate-stamp/zlib-populate-done	6376e708cc19e9fd

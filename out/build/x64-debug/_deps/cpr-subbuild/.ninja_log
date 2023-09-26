@@ -1,0 +1,21 @@
+# ninja log v5
+4	119	7172763027444201	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir	723cc36ea70a2713
+4	119	7172763027444201	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir	723cc36ea70a2713
+120	17034	7172763196580987	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download	e3fafed669e01248
+120	17034	7172763196580987	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download	e3fafed669e01248
+17169	17463	0	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update	3706e234cc4da664
+17169	17463	0	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update	3706e234cc4da664
+17463	17545	7172763201712749	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch	e5a57a990d698b97
+17463	17545	7172763201712749	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch	e5a57a990d698b97
+17546	17624	7172763202490747	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure	656b5fab17bdf6d0
+17546	17624	7172763202490747	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure	656b5fab17bdf6d0
+17624	17710	7172763203368397	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build	549dff7f3cf45c2d
+17624	17710	7172763203368397	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build	549dff7f3cf45c2d
+17711	17798	7172763204246049	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install	4880fc9394ea62d7
+17711	17798	7172763204246049	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install	4880fc9394ea62d7
+17798	17877	7172763205033934	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test	65889147121b6c31
+17798	17877	7172763205033934	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test	65889147121b6c31
+17877	17997	7172763206225576	CMakeFiles/cpr-populate-complete	9209034cf1f10fd1
+17877	17997	7172763206225576	cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-done	9209034cf1f10fd1
+17877	17997	7172763206225576	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/CMakeFiles/cpr-populate-complete	9209034cf1f10fd1
+17877	17997	7172763206225576	C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/30/30-2-capture-web-page-title/out/build/x64-debug/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-done	9209034cf1f10fd1
